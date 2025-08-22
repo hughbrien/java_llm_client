@@ -35,3 +35,8 @@ Amazon Corretto is a **no-cost, production-ready distribution of OpenJDK** provi
 ## Quick Notes
 - Pick the Corretto version that matches your **language/runtime feature needs** and your organization’s **LTS policy**.
 - For greenfield projects, **17 or 21** is typically recommended due to modern language features and long runway.
+
+## Versions 8 and 17
+- Amazon Corretto JVM 8 and 17 Both Corretto 8 and Corretto 17 ship with a HotSpot-based JVM, so they share many baseline configuration options, but new GC algorithms, defaults, and tuning flags appear in later releases.
+
+
